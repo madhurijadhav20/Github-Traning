@@ -7,4 +7,8 @@ module.exports=class Squre{
     {
         return this.width **2;
     }
+    area1()
+    {
+        return this.width **3;
+    }
 };
